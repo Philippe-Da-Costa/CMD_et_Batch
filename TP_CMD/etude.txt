@@ -1,0 +1,18 @@
+TP 4
+
+C:\Users\filou>copy d:\TP_CMD_SAUV\*.bat  d:\TP_CMD\bin
+d:\TP_CMD_SAUV\creeArbo.bat
+d:\TP_CMD_SAUV\creer.bat
+d:\TP_CMD_SAUV\supprime.bat
+        3 fichier(s) copié(s).
+
+
+
+C:\Users\filou>path %PATH%;D:\TP_CMD\bin
+
+C:\Users\filou>path
+PATH=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\composer;C:\Program Files\Git LFS;C:\Program Files\Symfony;C:\Program Files\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;F:\wamp64\bin\php\php8.1.7;D:\TP_CMD;D:\TP_CMD_SAUV;C:\Users\filou\AppData\Local\Microsoft\WindowsApps;C:\Users\filou\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;C:\wamp64\bin\php\php7.4.9;;C:\Users\filou\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Symfony;C:\Program Files\JetBrains\PhpStorm 2020.1\bin;;C:\Users\filou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\filou\AppData\Roaming\npm;;D:\TP_CMD\bin
+
+C:\Users\filou>creer
+ cree l arborescence du TP n2
+Appuyez sur une touche pour continuer...

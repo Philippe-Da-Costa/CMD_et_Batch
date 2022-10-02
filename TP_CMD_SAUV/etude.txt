@@ -1,0 +1,51 @@
+TP2 :1
+D:\>mkdir D:\TP_CMD\repertoire1\r5  D:\TP_CMD\r2 D:\TP_CMD\r3 D:\TP_CMD\r4\r6  D:\TP_CMD\r4\r7  D:\TP_CMD\r4\r8
+
+D:\>type nul > D:\TP_CMD\repertoire1\fichier1.txt
+
+D:\>type nul > D:\TP_CMD\repertoire1\fichier2.txt
+
+D:\>type nul > D:\TP_CMD\r4\r8\fichier3.txt
+
+TP2: PATH 
+
+
+C:\Users\filou>path %PATH%;D:\TP_CMD
+
+C:\Users\filou>path
+PATH=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\composer;C:\Program Files\Git LFS;C:\Program Files\Symfony;C:\Program Files\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;F:\wamp64\bin\php\php8.1.7;C:\Users\filou\AppData\Local\Microsoft\WindowsApps;C:\Users\filou\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2020.1\bin;C:\wamp64\bin\php\php7.4.9;;C:\Users\filou\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Symfony;C:\Program Files\JetBrains\PhpStorm 2020.1\bin;;C:\Users\filou\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\filou\AppData\Roaming\npm;;D:\TP_CMD
+
+
+tp Where
+
+C:\Users\filou>where creer.bat
+D:\TP_CMD_SAUV\creer.bat
+
+C:\Users\filou>where supprime.bat
+D:\TP_CMD_SAUV\supprime.bat
+
+C:\Users\filou>where where.exe
+C:\Windows\System32\where.exe
+
+
+
+TP TEMP
+
+C:\Users\filou>set temp
+TEMP=C:\Users\filou\AppData\Local\Temp
+
+C:\Users\filou>set tmp
+TMP=C:\Users\filou\AppData\Local\Temp
+ce sont des chemins absolus
+
+
+
+TP:3
+C:\Users\filou>cd %temp%
+
+C:\Users\filou\AppData\Local\Temp>where creer.bat
+D:\TP_CMD_SAUV\creer.bat
+
+
+C:\Users\filou\AppData\Local\Temp>where supprime.bat
+D:\TP_CMD_SAUV\supprime.bat
