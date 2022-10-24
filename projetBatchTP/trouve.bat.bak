@@ -24,7 +24,7 @@ if %errorlevel%==1 goto :choix_niveau
 :choix_niveau
 cls
 color f1
-set essais=0
+set essais=1
 echo.
 echo.
 echo            CHOISIS LE NIVEAU:
